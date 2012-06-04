@@ -1,0 +1,4 @@
+*.jpg
+*.wav
+*.pyc
+build/

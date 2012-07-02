@@ -1,4 +1,9 @@
 *.jpg
 *.wav
 *.pyc
+*.avi
+*.png
+*.mp4
+*.mpg
+*.pickle
 build/
